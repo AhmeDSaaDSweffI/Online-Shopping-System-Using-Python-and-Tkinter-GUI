@@ -1,0 +1,20 @@
+{
+  "30401090201012": [],
+  "22222222222222": [],
+  "44444444444444": [
+    {
+      "name": "Bag",
+      "price": "$ 20.0",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png",
+      "brand": "Gucci",
+      "model year": "2021"
+    },
+    {
+      "name": "mouse",
+      "price": "$ 250.0",
+      "path": "C:/Users/Abdallah/Desktop/projectimages/pngimg.com - computer_mouse_PNG7684.png",
+      "brand": "ll",
+      "model year": "2023"
+    }
+  ]
+}
