@@ -1,0 +1,215 @@
+{
+  "sports": [
+    {
+      "name": "Shoes",
+      "price": "$ 20.0",
+      "brand": "Nike",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "T-shirt",
+      "price": "$ 20.0",
+      "brand": "Adidas",
+      "model year": "2020",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Jeans",
+      "price": "$ 20.0",
+      "brand": "Levis",
+      "model year": "2019",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Bag",
+      "price": "$ 20.0",
+      "brand": "Gucci",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Hoodie",
+      "price": "$ 30.0",
+      "brand": "Champion",
+      "model year": "2022",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Sweatpants",
+      "price": "$ 40.0",
+      "brand": "Nike",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "ball",
+      "price": "$ 32.0",
+      "path": "C:/Users/Abdallah/Desktop/pantalon.png",
+      "brand": "ss",
+      "model year": "2002"
+    }
+  ],
+  "fashion": [
+    {
+      "name": "Shoes",
+      "price": "$ 20.0",
+      "brand": "Nike",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Bag",
+      "price": "$ 20.0",
+      "brand": "Gucci",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "short",
+      "price": "$ 2232.0",
+      "path": "C:/Users/Abdallah/Desktop/Isolated_black_t_shirt_opened.png",
+      "brand": "sssss",
+      "model year": "2003"
+    }
+  ],
+  "electronics": [
+    {
+      "name": "Smart Phone",
+      "price": "$ 20.0",
+      "brand": "samsung",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "laptop",
+      "price": "$ 20.0",
+      "brand": "hp",
+      "model year": "2020",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "TV",
+      "price": "$ 20.0",
+      "brand": "samsung",
+      "model year": "2019",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Headphones",
+      "price": "$ 20.0",
+      "brand": "apple",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Mouse",
+      "price": "$ 30.0",
+      "brand": "hp",
+      "model year": "2022",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Smart Phone",
+      "price": "$ 300.0",
+      "path": "C:/Users/Abdallah/Desktop/projectimages/iphone.png",
+      "brand": "apple",
+      "model year": "2024"
+    },
+    {
+      "name": "android phone",
+      "price": "$ 200.0",
+      "path": "C:/Users/Abdallah/Desktop/projectimages/sams.png",
+      "brand": "Sasmsung",
+      "model year": "2023"
+    },
+    {
+      "name": "mouse",
+      "price": "$ 250.0",
+      "path": "C:/Users/Abdallah/Desktop/projectimages/pngimg.com - computer_mouse_PNG7684.png",
+      "brand": "ll",
+      "model year": "2023"
+    }
+  ],
+  "home": [
+    {
+      "name": "Shoes",
+      "price": "$ 20.0",
+      "brand": "Nike",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "T-shirt",
+      "price": "$ 20.0",
+      "brand": "Adidas",
+      "model year": "2020",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Jeans",
+      "price": "$ 20.0",
+      "brand": "Levis",
+      "model year": "2019",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Bag",
+      "price": "$ 20.0",
+      "brand": "Gucci",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Hoodie",
+      "price": "$ 30.0",
+      "brand": "Champion",
+      "model year": "2022",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Sweatpants",
+      "price": "$ 40.0",
+      "brand": "Nike",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    }
+  ],
+  "books": [
+    {
+      "name": "BOOK",
+      "price": "$ 20.0",
+      "brand": "Nike",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "T-shirt",
+      "price": "$ 20.0",
+      "brand": "Adidas",
+      "model year": "2020",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Jeans",
+      "price": "$ 20.0",
+      "brand": "Levis",
+      "model year": "2019",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Bag",
+      "price": "$ 20.0",
+      "brand": "Gucci",
+      "model year": "2021",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    },
+    {
+      "name": "Hoodie",
+      "price": "$ 30.0",
+      "brand": "Champion",
+      "model year": "2022",
+      "path": "C:\\Users\\Abdallah\\Desktop\\bagg.png"
+    }
+  ]
+}
